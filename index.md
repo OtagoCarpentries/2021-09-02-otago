@@ -80,7 +80,7 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 {% endif %}
-
+<h1>POSTPONED</h1>
 
 <h2 id="general">General Information</h2>
 
